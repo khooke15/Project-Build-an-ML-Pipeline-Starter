@@ -6,6 +6,11 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Project LINKs
+GitHub Repository: https://github.com/khooke15/Project-Build-an-ML-Pipeline-Starter
+
+Weights & Biases Project: https://forge.coreweave.com/wandb/khooke15-western-governors-university/nyc_airbnb/overview
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
